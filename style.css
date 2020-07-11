@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-image: url(img/jorgeCerroMonserrate.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ProfilePicture img{
+    margin-top: 100px;
+    border: 5px solid #FFFF;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
+
+.PersonalInformation{
+
+    font-family: 'Ubuntu', sans-serif;
+    color: #FFFF;
+    text-align: center;
+    margin: 50px;
+
+}
+
+.PersonalInformation h3{
+
+    margin-top: 30px;
+
+}
